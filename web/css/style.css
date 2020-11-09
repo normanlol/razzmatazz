@@ -1,0 +1,40 @@
+html, body {
+    margin:0;
+    padding:0;
+    font-family:Helvetica;
+    background:black;
+}
+
+.header {
+    background:#282828;
+    color:white;
+}
+
+.header h2 {
+    margin:0;
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:0.5%;
+    padding-bottom:0.5%;
+}
+
+.post {
+    margin-top:1%;
+    margin-bottom:1%;
+    margin-left:0.5%;
+    margin-right:0.5%;
+    color:white;
+    background:#282828;
+    width:98%;
+    text-decoration:none!important;
+    padding:1%;
+}
+
+.post h2 {
+    margin:0;
+}
+
+.post .postUrl {
+    text-decoration:underline;
+    color:blue;
+}

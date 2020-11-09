@@ -1,0 +1,27 @@
+{
+  "name": "razzmatazz",
+  "version": "1.0.0",
+  "description": "reddit client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanlol/razzmatazz.git"
+  },
+  "keywords": [
+    "reddit",
+    "client"
+  ],
+  "author": "n0rmancodes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/normanlol/razzmatazz/issues"
+  },
+  "homepage": "https://github.com/normanlol/razzmatazz#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "redddit": "^1.0.2"
+  }
+}
